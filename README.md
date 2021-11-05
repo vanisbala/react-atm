@@ -7,7 +7,7 @@
 - How to use functions with hooks to handle states in components
 - How to deploy a react project in github
 
-**todo list**
+**ATM transaction**
 
 <img src="./src/media/atm.jpg" width="120" height="80">
 
