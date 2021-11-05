@@ -12,12 +12,11 @@
 <img src="./src/media/atm.jpg" width="120" height="80">
 
 ## Description
-- We can do two transactions using this ATM app.
-- One is deposit and the other one is withdraw.
+- We can do two transactions ( deposit and withdraw ) using this ATM app.
 - Any non-negative amount can be deposited by choosing a deposit option from the select menu.
 - Any non-negative amount which is less than the current balance amount can be withdrawn.
-- Whenever a valid transaction(deposit / withdraw) happens the balance amount will be updated.
-- Whenever the user enters negative amount / try to withdraw more than the balance / not choosing the options
+- Whenever a valid transaction(deposit / withdraw) happens the balance amount will be updated and displayed.
+- Whenever the user enters negative amount / try to withdraw more than the balance / not choosing any option, then
   the user will be informed about what was wrong in their action.
    
 
